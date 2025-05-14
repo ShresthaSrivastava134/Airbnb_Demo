@@ -1,4 +1,4 @@
-# hotel-booking 
+# Hotel Booking
 **Online Hotel Booking &amp; Management System**
 
 **User Role**
